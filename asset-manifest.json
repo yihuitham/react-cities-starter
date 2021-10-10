@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-cities-starter/static/css/main.9b1431d8.chunk.css",
+    "main.js": "/react-cities-starter/static/js/main.da8c351f.chunk.js",
+    "main.js.map": "/react-cities-starter/static/js/main.da8c351f.chunk.js.map",
+    "runtime~main.js": "/react-cities-starter/static/js/runtime~main.b95ab25e.js",
+    "runtime~main.js.map": "/react-cities-starter/static/js/runtime~main.b95ab25e.js.map",
+    "static/js/2.32bdae52.chunk.js": "/react-cities-starter/static/js/2.32bdae52.chunk.js",
+    "static/js/2.32bdae52.chunk.js.map": "/react-cities-starter/static/js/2.32bdae52.chunk.js.map",
+    "index.html": "/react-cities-starter/index.html",
+    "precache-manifest.0242bcf37a5b4aa7dabb311746a56251.js": "/react-cities-starter/precache-manifest.0242bcf37a5b4aa7dabb311746a56251.js",
+    "service-worker.js": "/react-cities-starter/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "/react-cities-starter/static/css/main.9b1431d8.chunk.css.map"
+  }
+}
