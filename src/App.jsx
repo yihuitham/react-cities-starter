@@ -33,3 +33,29 @@ export default function App() {
     </div>
   );
 }
+
+// import { useState } from "react";
+// import imagesArr from "./imageData";
+// import "./App.css";
+
+// function App() {
+//   const [bigImage, setBigImage] = useState(imagesArr[0]);
+
+//   const handleClick = (imageUrl) => setBigImage(imageUrl);
+
+//   const images = imagesArr.map((image) => (
+//     <img key={image.city} className="thumb" src={image.img} alt={image.city} onClick={() => handleClick(image)} />
+//   ));
+
+//   return (
+//     <div className="App">
+//       <h1>Cities Of The World</h1>
+//       <div id="wrapper">
+//         <div id="thumbnails">{images}</div>
+//         <img id="bigimage" src={bigImage.img} alt={bigImage.city} />
+//       </div>
+//     </div>
+//   );
+// }
+
+// export default App;
